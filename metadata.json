@@ -1,0 +1,5 @@
+{
+  "name": "React POS & Inventory System",
+  "description": "A simple Point of Sale (POS) and Inventory Management System built with React, Tailwind CSS, and Supabase. It features authentication, product management, a POS interface, and sales history.",
+  "requestFramePermissions": []
+}
